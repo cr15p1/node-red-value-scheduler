@@ -1,0 +1,9 @@
+{
+  "name": "node-red-value-scheduler",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "git@github.com:cr15p1/node-red-value-scheduler.git",
+  "author": "cr15p1",
+  "license": "MIT",
+  "private": true
+}
